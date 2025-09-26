@@ -8,3 +8,5 @@ This script will request the following:
   - Reboot - Commands the firewall to reboot
 - Version (Option 2/3 Only) - Manually enter the desired version to download/install
 - Host - Perform the selected action on the provided hostname/IP
+
+Currently this tool does not provide the outputs returned by the firewall, only if the command was a success (e.g. 200) or a failure (e.g. 403)
